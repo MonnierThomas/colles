@@ -1,0 +1,45 @@
+Matière,Professeur,Creneau,Salle,Mail
+M1,Mr Heroult,Lundi 17h15/18h10,D014,pcsiahoche@yahoo.fr
+M2,Mr Lachouque,Vendredi 16h15/17h10-Jeudi 17h15/18h10,D014(ven)-D021(jeu),jacqueslachouque@outlook.com  06.10.20.61.36
+M2,Mr Monnier,Vendredi 16h15/17h10-Jeudi 17h15/18h10,D014(ven)-D021(jeu),monnier.thomas@hotmail.com 06.51.44.17.30
+M3,Mr Pont,Vendredi 16h15/17h10-Jeudi 17h15/18h10,D015(ven)-D021 (jeu),olivier.pont@polytechnique.edu  07.81.88.46.87
+M3,Mr Exbrayat,Vendredi 16h15/17h10-Jeudi 17h15/18h10,D015(ven)-D021 (jeu),valexb92@gmail.com 07.63.99.35.46
+M4,Mme Hug,Vendredi 12h15/13h05,C304,patricia.c.hug@free.fr  06.45.35.17.90
+M5,Mr Heroult,Lundi 18h15/19h10,D014,pcsiahoche@yahoo.fr
+M6,Mr Lachouque,Vendredi 17h15/18h10-Jeudi 18h15/19h10,D014(ven)-D021(jeu),jacqueslachouque@outlook.com  06.10.20.61.36
+M6,Mr Monnier,Vendredi 17h15/18h10-Jeudi 18h15/19h10,D014(ven)-D021(jeu),monnier.thomas@hotmail.com 06.51.44.17.30
+M7,Mr Pont,Vendredi 17h15/18h10-Jeudi 18h15/19h10,D015(ven)-D021 (jeu),olivier.pont@polytechnique.edu  07.81.88.46.87
+M7,Mr Exbrayat,Vendredi 17h15/18h10-Jeudi 18h15/19h10,D015(ven)-D021 (jeu),valexb92@gmail.com 07.63.99.35.46
+M8,Mme Perret-Gentil,Vendredi 12h15/13h05,D8,d.pg@wanadoo.fr  06.20.76.01.21
+M'8,Mme Perret-Gentil,Vendredi 14h10/15h05,D8,d.pg@wanadoo.fr  06.20.76.01.21
+P1,"Mr Ramanantsoavina
+Mr de Montbel",Jeudi 17h15/18h10,D005,"tanguyramanan@gmail.com
+augustin.demontbel@gmail.com"
+P2,Mr Jannaud,Mercredi 17h15/18h10,S001,06.83.06.48.75 lionel.jannaud@orange.fr
+P3,Mme Mensch,Mercredi 14h10/15h05,D009,severine@mensch.fr  06 09 35 02 79
+P4,Mr Hulot,Mardi 17h15/18h10,D009,pchoche2020@gmail.com
+P'4,Mr Hulot,Mardi 18h15/19h10,D009,pchoche2020@gmail.com
+P5,Mr Jannaud,Mercredi 14h10/15h05,S001,06.83.06.48.75 lionel.jannaud@orange.fr
+P6,"Mr Ramanantsoavina
+Mr de Montbel",Jeudi 18h15/19h10,D005,
+S1,Mr Mainnemare,Mercredi 17h15/18h10,D001,florian.mainnemare@ens-paris-saclay.fr
+S2,Mr Lusseau,Mercredi 12h10/13h05,D001,clusseau.ens@posteo.net
+S3,Mr Mainnemare,Mercredi 18h15/19h10,D001,florian.mainnemare@ens-paris-saclay.fr
+S4,Mr Clare,Mardi 18h15/19h10,D003,herve.clare@wanadoo.fr
+C1,Mlle Faure,Vendredi 17h15/18h10,D017,clotilde.faure@etu.chimieparistech.psl.eu 06.50.51.29.72
+C2,Mme Lefebvre,Vendredi  13h10/14h15,D021,elisabeth.lefebvre@cegetel.net 06.21.58.61.75
+C3,Mr Lautié,Lundi 17h15/18h10,S308,jblautie@laposte.net
+C4,M. Gennet,Lundi 18h15/19h10,D102,Dominique.Gennet@ac-versailles.fr
+C5,Mme Lefebvre,Vendredi 14h10/15h05,D021,elisabeth.lefebvre@cegetel.net 06.21.58.61.75
+C6,Mme Debled,Vendredi 14h10/15h05,D025,as.debled@gmail.com 06.09.37.59.81
+F1,Mme Jacquemin,Mercredi 13h10/14h05,C123,mhjthoche@free.fr
+F2,Mme Jacquemin,Mercredi  14h10/15h05,C123,mhjthoche@free.fr
+A1,Mme Lecat,Lundi 17h15/18h10,C115,garance.lecat@ens-paris-saclay.fr
+A2,Mme Pla,Mardi 17h15/18h10,C114,valentine.pla@hec.edu
+A3,Mme Mélières,Mercredi 16h15/17h10,C114,delmelieres@yahoo.fr
+A4,Mme Brachet,Mercredi 17h15/18h10,C116,Mrsbrachet@gmail.com
+A5,Mme Lecat,Lundi 18h15/19h10,C115,garance.lecat@ens-paris-saclay.fr
+A6,Mme Pla,Mardi 18h15/19h10,C114,valentine.pla@hec.edu
+A7,Mme Brachet,Mercredi 18h15/19h10,C116,
+D1,Mme Bolzer,Jeudi 14h10/15h15,D109,marion.bolzer@ac-versailles.fr 06 79 06 93 26
+D2,Mme Bolzer,Mardi 18h15/19h10,D109,marion.bolzer@ac-versailles.fr 06 79 06 93 26

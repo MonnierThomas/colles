@@ -1,0 +1,11 @@
+Bonjour à vous {}, 
+
+Je suis {}, je vous colle en {} ! J'espère que vous allez bien.
+
+Je vous propose de nous retrouver ce {} à {} en {}.
+ 
+N'hésitez pas si vous avez des questions,
+ 
+{}
+
+{}
